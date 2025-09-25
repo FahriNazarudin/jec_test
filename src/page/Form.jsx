@@ -43,8 +43,8 @@ export default function Form() {
     setLoading(true);
     try {
       // Simulate form submission (you can add actual API call here)
-      await new Promise(resolve => setTimeout(resolve, 1000));
-      
+      await new Promise((resolve) => setTimeout(resolve, 1000));
+
       console.log("New appointment created:", formData);
       alert("Appointment created successfully!");
       navigate("/");
