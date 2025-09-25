@@ -1,0 +1,638 @@
+[
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250902-00001",
+      "appointment_date": "2025-09-02T00:00:00+07:00",
+      "appointment_time": "18:00",
+      "appointment_source": "Call Center",
+      "patient_name": "An. FERNANDO RIYO JUNEDY SIMBOLONN",
+      "gender": "GenderID-01",
+      "date_of_birth": "1994-07-17T00:00:00+07:00",
+      "medical_no": "002-000-01-06",
+      "email": "*****",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A101",
+      "service_unit_name": "EYE CLINIC",
+      "user_create": "21170",
+      "user_create_name": "Fernando Riyo J Simbolon",
+      "created_at": "2025-09-02T09:06:48+07:00",
+      "user_update_name": "Fernando Riyo J Simbolon",
+      "patient_id": "PKDY250707-0001",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#ff0000",
+          "legend_name": "Patient Dewasa"
+        }
+      ]
+    },
+    "registrationTime": "2025-09-02T09:06:48+07:00",
+    "appointmentTime": "2025-09-02T18:00:00+07:00",
+    "channel": "Call Center",
+    "address": "",
+    "patient": {
+      "name": "An. FERNANDO RIYO JUNEDY SIMBOLONN",
+      "gender": "M",
+      "birthday": "1994-07-17T00:00:00+07:00",
+      "mobilePhone": "*****"
+    },
+    "registNum": "APKDY/250902-00001",
+    "medicalNo": "002-000-01-06",
+    "isNewReg": false,
+    "serviceUnit": "EYE CLINIC",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Fernando Riyo J Simbolon",
+      "time": "2025-09-02T09:06:48+07:00"
+    }
+  },
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250827-00003",
+      "appointment_date": "2025-08-28T00:00:00+07:00",
+      "appointment_time": "08:00",
+      "appointment_source": "Call Center",
+      "patient_name": "Tn. Lina  Mirana",
+      "gender": "GenderID-01",
+      "date_of_birth": "2019-01-14T00:00:00+07:00",
+      "medical_no": "002-000-01-22",
+      "email": "*****",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A101",
+      "service_unit_name": "EYE CLINIC",
+      "user_create": "21170",
+      "user_create_name": "Fernando Riyo J Simbolon",
+      "created_at": "2025-08-27T16:29:12+07:00",
+      "user_update_name": "Fernando Riyo J Simbolon",
+      "patient_id": "PKDY250714-0004",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#f62d9e",
+          "legend_name": "Patient Child"
+        }
+      ]
+    },
+    "registrationTime": "2025-08-27T16:29:12+07:00",
+    "appointmentTime": "2025-08-28T08:00:00+07:00",
+    "channel": "Call Center",
+    "address": "",
+    "patient": {
+      "name": "Tn. Lina  Mirana",
+      "gender": "M",
+      "birthday": "2019-01-14T00:00:00+07:00",
+      "mobilePhone": "*****"
+    },
+    "registNum": "APKDY/250827-00003",
+    "medicalNo": "002-000-01-22",
+    "isNewReg": false,
+    "serviceUnit": "EYE CLINIC",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Fernando Riyo J Simbolon",
+      "time": "2025-08-27T16:29:12+07:00"
+    }
+  },
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250827-00002",
+      "appointment_date": "2025-08-27T00:00:00+07:00",
+      "appointment_time": "08:20",
+      "appointment_source": "Call Center",
+      "patient_name": "Ibu. Lina",
+      "gender": "GenderID-02",
+      "date_of_birth": "1995-01-27T00:00:00+07:00",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A101",
+      "service_unit_name": "EYE CLINIC",
+      "user_create": "raihan",
+      "user_create_name": "Muhammad Raihan",
+      "created_at": "2025-08-27T12:37:44+07:00",
+      "user_update_name": "Rama Edwinda P",
+      "updated_at": "2025-08-27T15:58:42+07:00",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#ff0000",
+          "legend_name": "Patient Dewasa"
+        }
+      ]
+    },
+    "registrationTime": "2025-08-27T12:37:44+07:00",
+    "appointmentTime": "2025-08-27T08:20:00+07:00",
+    "channel": "Call Center",
+    "address": "",
+    "patient": {
+      "name": "Ibu. Lina",
+      "gender": "F",
+      "birthday": "1995-01-27T00:00:00+07:00",
+      "mobilePhone": "*****"
+    },
+    "registNum": "APKDY/250827-00002",
+    "isNewReg": true,
+    "serviceUnit": "EYE CLINIC",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Rama Edwinda P",
+      "time": "2025-08-27T12:37:44+07:00"
+    }
+  },
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250827-00001",
+      "appointment_date": "2025-08-27T00:00:00+07:00",
+      "appointment_time": "08:00",
+      "appointment_source": "Call Center",
+      "patient_name": "Tn. Bot  1",
+      "gender": "GenderID-03",
+      "date_of_birth": "2025-07-22T00:00:00+07:00",
+      "medical_no": "002-000-01-26",
+      "email": "*****",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A101",
+      "service_unit_name": "EYE CLINIC",
+      "user_create": "raihan",
+      "user_create_name": "Muhammad Raihan",
+      "created_at": "2025-08-27T12:36:36+07:00",
+      "user_update_name": "Muhammad Raihan",
+      "updated_at": "2025-08-27T12:42:23+07:00",
+      "patient_id": "PKDY250723-0001",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#f62d9e",
+          "legend_name": "Patient Child"
+        },
+        {
+          "color_type_id": "ColorType-01",
+          "color_code": "#8cf9f4",
+          "legend_name": "Registered"
+        }
+      ]
+    },
+    "registrationTime": "2025-08-27T12:36:36+07:00",
+    "appointmentTime": "2025-08-27T08:00:00+07:00",
+    "channel": "Call Center",
+    "address": "",
+    "patient": {
+      "name": "Tn. Bot  1",
+      "gender": "F",
+      "birthday": "2025-07-22T00:00:00+07:00",
+      "mobilePhone": "*****"
+    },
+    "registNum": "APKDY/250827-00001",
+    "medicalNo": "002-000-01-26",
+    "isNewReg": false,
+    "serviceUnit": "EYE CLINIC",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Muhammad Raihan",
+      "time": "2025-08-27T12:36:36+07:00"
+    }
+  },
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250825-00001",
+      "appointment_date": "2025-08-25T00:00:00+07:00",
+      "appointment_time": "08:00",
+      "appointment_source": "Call Center",
+      "patient_name": "Mr. Andi  Permana",
+      "gender": "GenderID-02",
+      "date_of_birth": "1990-10-07T00:00:00+07:00",
+      "medical_no": "002-000-01-18",
+      "email": "*****",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A101",
+      "service_unit_name": "EYE CLINIC",
+      "user_create": "21170",
+      "user_create_name": "Fernando Riyo J Simbolon",
+      "created_at": "2025-08-25T16:13:34+07:00",
+      "user_update_name": "Fernando Riyo J Simbolon",
+      "patient_id": "PKDY250710-0002",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#ff0000",
+          "legend_name": "Patient Dewasa"
+        }
+      ]
+    },
+    "registrationTime": "2025-08-25T16:13:34+07:00",
+    "appointmentTime": "2025-08-25T08:00:00+07:00",
+    "channel": "Call Center",
+    "address": "",
+    "patient": {
+      "name": "Mr. Andi  Permana",
+      "gender": "F",
+      "birthday": "1990-10-07T00:00:00+07:00",
+      "mobilePhone": "*****"
+    },
+    "registNum": "APKDY/250825-00001",
+    "medicalNo": "002-000-01-18",
+    "isNewReg": false,
+    "serviceUnit": "EYE CLINIC",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Fernando Riyo J Simbolon",
+      "time": "2025-08-25T16:13:34+07:00"
+    }
+  },
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250722-00005",
+      "appointment_date": "2025-07-22T00:00:00+07:00",
+      "appointment_time": "10:00",
+      "appointment_source": "Call Center",
+      "patient_name": "An. Dina  Sasmita",
+      "gender": "GenderID-02",
+      "date_of_birth": "1997-07-17T00:00:00+07:00",
+      "medical_no": "002-000-01-23",
+      "email": "*****",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A108",
+      "service_unit_name": "C D C",
+      "user_create": "raihan",
+      "user_create_name": "Muhammad Raihan",
+      "created_at": "2025-07-22T17:42:51+07:00",
+      "user_update_name": "Muhammad Raihan",
+      "updated_at": "2025-08-25T16:08:51+07:00",
+      "patient_id": "PKDY250717-0001",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#ff0000",
+          "legend_name": "Patient Dewasa"
+        },
+        {
+          "color_type_id": "ColorType-01",
+          "color_code": "#8cf9f4",
+          "legend_name": "Registered"
+        }
+      ]
+    },
+    "registrationTime": "2025-07-22T17:42:51+07:00",
+    "appointmentTime": "2025-07-22T10:00:00+07:00",
+    "channel": "Call Center",
+    "address": "",
+    "patient": {
+      "name": "An. Dina  Sasmita",
+      "gender": "F",
+      "birthday": "1997-07-17T00:00:00+07:00",
+      "mobilePhone": "*****"
+    },
+    "registNum": "APKDY/250722-00005",
+    "medicalNo": "002-000-01-23",
+    "isNewReg": false,
+    "serviceUnit": "C D C",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Muhammad Raihan",
+      "time": "2025-07-22T17:42:51+07:00"
+    }
+  },
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250722-00004",
+      "appointment_date": "2025-07-22T00:00:00+07:00",
+      "appointment_time": "08:30",
+      "appointment_source": "Call Center",
+      "patient_name": "An. FERNANDO RIYO JUNEDY SIMBOLON",
+      "gender": "GenderID-01",
+      "date_of_birth": "1994-07-17T00:00:00+07:00",
+      "medical_no": "002-000-01-06",
+      "email": "*****",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A101",
+      "service_unit_name": "EYE CLINIC",
+      "user_create": "21170",
+      "user_create_name": "Fernando Riyo J Simbolon",
+      "created_at": "2025-07-22T10:40:17+07:00",
+      "user_update_name": "Fernando Riyo J Simbolon",
+      "updated_at": "2025-07-22T10:41:29+07:00",
+      "patient_id": "PKDY250707-0001",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#ff0000",
+          "legend_name": "Patient Dewasa"
+        },
+        {
+          "color_type_id": "ColorType-01",
+          "color_code": "#8cf9f4",
+          "legend_name": "Registered"
+        }
+      ]
+    },
+    "registrationTime": "2025-07-22T10:40:17+07:00",
+    "appointmentTime": "2025-07-22T08:30:00+07:00",
+    "channel": "Call Center",
+    "address": "",
+    "patient": {
+      "name": "An. FERNANDO RIYO JUNEDY SIMBOLON",
+      "gender": "M",
+      "birthday": "1994-07-17T00:00:00+07:00",
+      "mobilePhone": "*****"
+    },
+    "registNum": "APKDY/250722-00004",
+    "medicalNo": "002-000-01-06",
+    "isNewReg": false,
+    "serviceUnit": "EYE CLINIC",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Fernando Riyo J Simbolon",
+      "time": "2025-07-22T10:40:17+07:00"
+    }
+  },
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250722-00003",
+      "appointment_date": "2025-07-22T00:00:00+07:00",
+      "appointment_time": "08:20",
+      "appointment_source": "Call Center",
+      "patient_name": "suryaaaa adhi waskito",
+      "gender": "GenderID-01",
+      "date_of_birth": "2000-02-26T00:00:00+07:00",
+      "medical_no": "002-000-01-19",
+      "phone_no": "*****",
+      "email": "*****",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A101",
+      "service_unit_name": "EYE CLINIC",
+      "user_create": "21170",
+      "user_create_name": "Fernando Riyo J Simbolon",
+      "created_at": "2025-07-22T10:19:57+07:00",
+      "user_update_name": "Muhammad Raihan",
+      "updated_at": "2025-07-22T17:39:35+07:00",
+      "patient_id": "PKDY250714-0001",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#ff0000",
+          "legend_name": "Patient Dewasa"
+        },
+        {
+          "color_type_id": "ColorType-01",
+          "color_code": "#8cf9f4",
+          "legend_name": "Registered"
+        }
+      ]
+    },
+    "registrationTime": "2025-07-22T10:19:57+07:00",
+    "appointmentTime": "2025-07-22T08:20:00+07:00",
+    "channel": "Call Center",
+    "address": "",
+    "patient": {
+      "name": "suryaaaa adhi waskito",
+      "gender": "M",
+      "birthday": "2000-02-26T00:00:00+07:00",
+      "mobilePhone": "*****",
+      "phoneNumber": "*****"
+    },
+    "registNum": "APKDY/250722-00003",
+    "medicalNo": "002-000-01-19",
+    "isNewReg": false,
+    "serviceUnit": "EYE CLINIC",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Muhammad Raihan",
+      "time": "2025-07-22T10:19:57+07:00"
+    }
+  },
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250722-00002",
+      "appointment_date": "2025-07-22T00:00:00+07:00",
+      "appointment_time": "08:10",
+      "appointment_source": "Whatsapp",
+      "patient_name": "Mr. Rudi  Sudarman",
+      "gender": "GenderID-01",
+      "date_of_birth": "1993-12-09T00:00:00+07:00",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A101",
+      "service_unit_name": "EYE CLINIC",
+      "user_create": "21170",
+      "user_create_name": "Fernando Riyo J Simbolon",
+      "created_at": "2025-07-22T10:03:37+07:00",
+      "user_update_name": "Fernando Riyo J Simbolon",
+      "updated_at": "2025-07-22T10:10:19+07:00",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#ff0000",
+          "legend_name": "Patient Dewasa"
+        },
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#ff6e00",
+          "legend_name": "Via ChatBot"
+        },
+        {
+          "color_type_id": "ColorType-01",
+          "color_code": "#8cf9f4",
+          "legend_name": "Registered"
+        }
+      ]
+    },
+    "registrationTime": "2025-07-22T10:03:37+07:00",
+    "appointmentTime": "2025-07-22T08:10:00+07:00",
+    "channel": "Whatsapp",
+    "address": "",
+    "patient": {
+      "name": "Mr. Rudi  Sudarman",
+      "gender": "M",
+      "birthday": "1993-12-09T00:00:00+07:00",
+      "mobilePhone": "*****"
+    },
+    "registNum": "APKDY/250722-00002",
+    "isNewReg": true,
+    "serviceUnit": "EYE CLINIC",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Fernando Riyo J Simbolon",
+      "time": "2025-07-22T10:03:37+07:00"
+    }
+  },
+  {
+    "dataRaw": {
+      "appointment_no": "APKDY/250722-00001",
+      "appointment_date": "2025-07-22T00:00:00+07:00",
+      "appointment_time": "08:00",
+      "appointment_source": "Call Center",
+      "patient_name": "Mr. Andi  Permana",
+      "gender": "GenderID-02",
+      "date_of_birth": "1990-10-07T00:00:00+07:00",
+      "medical_no": "002-000-01-18",
+      "email": "*****",
+      "mobile_phone_no": "*****",
+      "paramedic_id": "DKDY0006",
+      "paramedic_initial": "JH",
+      "paramedic_name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "paramedic_img_url": "/file_storage/fa74db2b-1e7c-4842-857b-54a0ebe5f0d4/2da6a1bd-ba62-43ec-91f8-4085d5d6d498/53aad077-9fb1-4f08-85f3-af9fd9a36517",
+      "paramedic_specialization": "Ophthalmologist",
+      "service_unit_id": "A101",
+      "service_unit_name": "EYE CLINIC",
+      "user_create": "21170",
+      "user_create_name": "Fernando Riyo J Simbolon",
+      "created_at": "2025-07-22T10:01:52+07:00",
+      "user_update_name": "Fernando Riyo J Simbolon",
+      "updated_at": "2025-07-22T10:18:09+07:00",
+      "patient_id": "PKDY250710-0002",
+      "legends": [
+        {
+          "color_type_id": "ColorType-02",
+          "color_code": "#ff0000",
+          "legend_name": "Patient Dewasa"
+        },
+        {
+          "color_type_id": "ColorType-01",
+          "color_code": "#8cf9f4",
+          "legend_name": "Registered"
+        }
+      ]
+    },
+    "registrationTime": "2025-07-22T10:01:52+07:00",
+    "appointmentTime": "2025-07-22T08:00:00+07:00",
+    "channel": "Call Center",
+    "address": "",
+    "patient": {
+      "name": "Mr. Andi  Permana",
+      "gender": "F",
+      "birthday": "1990-10-07T00:00:00+07:00",
+      "mobilePhone": "*****"
+    },
+    "registNum": "APKDY/250722-00001",
+    "medicalNo": "002-000-01-18",
+    "isNewReg": false,
+    "serviceUnit": "EYE CLINIC",
+    "room": "Lt.3 Room 3B",
+    "type": "Consultation",
+    "queue": "JH 001",
+    "bed": "None",
+    "doctor": {
+      "name": "DR. Dr. Johan A. Hutauruk, SpM(K)",
+      "specialty": "Ophthalmologist",
+      "img": "blob:http://localhost:9801/d01c33d6-2bea-474d-840a-0ec082691624"
+    },
+    "lastUpdate": {
+      "from": "Fernando Riyo J Simbolon",
+      "time": "2025-07-22T10:01:52+07:00"
+    }
+  }
+]
