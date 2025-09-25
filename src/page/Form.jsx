@@ -1,14 +1,10 @@
 import { ChevronDown, X } from "lucide-react";
 import { Link, useNavigate } from "react-router";
 import { useState } from "react";
-import { useDispatch, useSelector } from "react-redux";
-import { addAppointmentStart } from "../store/slices/appointmentSlice";
-import { selectAppointmentsLoading } from "../store/selectors/appointmentSelectors";
 
 export default function Form() {
   const navigate = useNavigate();
-  const dispatch = useDispatch();
-  const loading = useSelector(selectAppointmentsLoading);
+  const [loading, setLoading] = useState(false);
 
   const [formData, setFormData] = useState({
     patientName: "",
@@ -44,11 +40,19 @@ export default function Form() {
       return;
     }
 
+    setLoading(true);
     try {
-      dispatch(addAppointmentStart(formData));
+      // Simulate form submission (you can add actual API call here)
+      await new Promise(resolve => setTimeout(resolve, 1000));
+      
+      console.log("New appointment created:", formData);
+      alert("Appointment created successfully!");
       navigate("/");
     } catch (error) {
-      console.log(error);
+      console.error("Error creating appointment:", error);
+      alert("Failed to create appointment. Please try again.");
+    } finally {
+      setLoading(false);
     }
   };
 

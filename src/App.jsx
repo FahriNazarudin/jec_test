@@ -13,27 +13,37 @@ import {
   Smile,
   StickyNote,
 } from "lucide-react";
-import { useEffect } from "react";
-import { useDispatch, useSelector } from "react-redux";
+import { useEffect, useState } from "react";
 import AppointmentCard from "./components/AppointmentCard";
 import { NavLink } from "react-router";
 import logo from "./assets/logo.png";
-import { fetchAppointmentsStart } from "./store/slices/appointmentSlice";
-import {
-  selectFilteredAppointments,
-  selectAppointmentsLoading,
-  selectAppointmentsError,
-} from "./store/selectors/appointmentSelectors";
 
 export default function App() {
-  const dispatch = useDispatch();
-  const appointments = useSelector(selectFilteredAppointments);
-  const loading = useSelector(selectAppointmentsLoading);
-  const error = useSelector(selectAppointmentsError);
+  const [appointments, setAppointments] = useState([]);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
 
   useEffect(() => {
-    dispatch(fetchAppointmentsStart());
-  }, [dispatch]);
+    async function fetchData() {
+      setLoading(true);
+      setError(null);
+      try {
+        const response = await fetch("/dummy.json");
+        if (!response.ok) {
+          throw new Error("Failed to fetch data");
+        }
+        const data = await response.json();
+        setAppointments(data);
+      } catch (error) {
+        console.error("Error fetching data:", error);
+        setError("Failed to load appointments. Please try again.");
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    fetchData();
+  }, []);
 
   return (
     <>
@@ -198,10 +208,10 @@ export default function App() {
             {!loading && !error && (
               <table className="w-full border-collapse bg-white rounded-lg overflow-hidden shadow-lg">
                 <tbody className="divide-y divide-gray-200">
-                  {appointments.map((appointment) => {
+                  {appointments.map((appointment, index) => {
                     return (
                       <AppointmentCard
-                        key={appointment.id}
+                        key={appointment.registNum || index}
                         appointment={appointment}
                       />
                     );
